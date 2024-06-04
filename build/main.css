@@ -1,21 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.produtos {
+  background-color: green;
+}
+
 body {
-  background-color: rgba(238, 238, 238, 0.9333333333);
-}
-
-header {
-  background-color: rgba(238, 238, 238, 0.9333333333);
-}
-header h1 {
-  color: #111;
-}
-
-button {
-  padding: 16px;
-  background-color: #111;
-  color: rgba(238, 238, 238, 0.9333333333);
-}
-button:hover {
-  background-color: yellow;
+  background-color: #ccc;
 }
 
 /*# sourceMappingURL=main.css.map */
