@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(238, 238, 238, 0.9333333333);
+}
+
+header {
+  background-color: rgba(238, 238, 238, 0.9333333333);
+}
+header h1 {
+  color: #111;
+}
+
+button {
+  padding: 16px;
+  background-color: #111;
+  color: rgba(238, 238, 238, 0.9333333333);
+}
+button:hover {
+  background-color: yellow;
+}
+
+/*# sourceMappingURL=main.css.map */
